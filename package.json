@@ -1,0 +1,22 @@
+{
+  "name": "playsite",
+  "version": "0.5.0",
+  "description": "play site using centurion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnorthcott22/Centurion.git"
+  },
+  "keywords": [
+    "play"
+  ],
+  "author": "Josh Northcott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnorthcott22/Centurion/issues"
+  },
+  "homepage": "https://github.com/jnorthcott22/Centurion"
+}
