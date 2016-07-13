@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/jnorthcott22/Centurion/issues"
   },
-  "homepage": "https://github.com/jnorthcott22/Centurion"
+  "homepage": "https://github.com/jnorthcott22/Centurion",
+  "devDependencies": {
+    "centurion-framework": "^3.6.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.0"
+  }
 }
