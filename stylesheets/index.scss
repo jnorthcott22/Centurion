@@ -1,1 +1,11 @@
 //my scss file
+
+@import "centurion-framework";
+
+@include normalize;
+@include column-grid;
+@include clearfix;
+
+body {
+  background-color: blue;
+}

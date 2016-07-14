@@ -22,6 +22,8 @@
   "devDependencies": {
     "centurion-framework": "^3.6.3",
     "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^1.2.0"
   }
