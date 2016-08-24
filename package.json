@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jnorthcott22/Centurion.git"
+    "url": "https://github.com/jnorthcott22/joshdotcom.git"
   },
   "keywords": [
     "play"
@@ -16,9 +16,9 @@
   "author": "Josh Northcott",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jnorthcott22/Centurion/issues"
+    "url": "https://github.com/jnorthcott22/joshdotcom/issues"
   },
-  "homepage": "https://github.com/jnorthcott22/Centurion",
+  "homepage": "https://github.com/jnorthcott22/joshdotcom",
   "devDependencies": {
     "centurion-framework": "^3.6.3",
     "grunt": "^1.0.1",
